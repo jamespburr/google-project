@@ -8,7 +8,7 @@ body{
     margin-top: 89px;
 }
 
-#logo {
+#google-image {
     padding-top: 109px;
     ;
 }
@@ -75,13 +75,13 @@ padding-top: 18px;
     line-height: 40px;
 }
 
-#footL{
+#left{
     margin-left: 30px;
     white-space: nowrap;
 
 }
 
-#footR{
+#right{
     margin-right: 30px;
     float: right;
     white-space: nowrap;
@@ -94,6 +94,7 @@ padding-top: 18px;
     text-decoration: none;
     margin:0 !important;
     line-height: 40px;
+    
 }
 
 .footLink:hover{
