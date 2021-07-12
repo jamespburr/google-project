@@ -8,7 +8,7 @@ body{
     margin-top: 89px;
 }
 
-#google-image {
+.google-image {
     padding-top: 109px;
     ;
 }
@@ -75,13 +75,13 @@ padding-top: 18px;
     line-height: 40px;
 }
 
-#left{
+.left{
     margin-left: 30px;
     white-space: nowrap;
 
 }
 
-#right{
+.right{
     margin-right: 30px;
     float: right;
     white-space: nowrap;
